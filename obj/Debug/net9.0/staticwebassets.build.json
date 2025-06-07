@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "wwIn+YqgeW2ibVw/merJHa5rz2rI3s35r0dilXuIgG0=",
+  "Source": "AutoCareAPI",
+  "BasePath": "_content/AutoCareAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutoCareAPI\\wwwroot",
+      "Source": "AutoCareAPI",
+      "ContentRoot": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\",
+      "BasePath": "_content/AutoCareAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\8co9p34h1u-xnnrctw9uo.gz",
+      "SourceId": "AutoCareAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AutoCareAPI",
+      "RelativePath": "index#[.{fingerprint=xnnrctw9uo}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2x1e1gk422",
+      "Integrity": "yt2xrjRaKIiYIuv+XQEjEcSXkl8vcPXgVKK4ZVDi+08=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\t5jjyb44wd-t4ryz5jegt.gz",
+      "SourceId": "AutoCareAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AutoCareAPI",
+      "RelativePath": "styles#[.{fingerprint=t4ryz5jegt}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3gbe3038ey",
+      "Integrity": "jbvzSQDhuj2vN9hiyvo6tQ2SSOy5A5N7MomvFZrJCEI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\unu6lwcfio-9obyh8ya6l.gz",
+      "SourceId": "AutoCareAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AutoCareAPI",
+      "RelativePath": "script#[.{fingerprint=9obyh8ya6l}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "iqjqsgt8iz",
+      "Integrity": "apJ/4ZZ8l1F7YmDb63VEOPOS40hQroSPQL7UN92SLLM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\index.html",
+      "SourceId": "AutoCareAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\",
+      "BasePath": "_content/AutoCareAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xnnrctw9uo",
+      "Integrity": "jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\script.js",
+      "SourceId": "AutoCareAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\",
+      "BasePath": "_content/AutoCareAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9obyh8ya6l",
+      "Integrity": "Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\styles.css",
+      "SourceId": "AutoCareAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\",
+      "BasePath": "_content/AutoCareAPI",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t4ryz5jegt",
+      "Integrity": "I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\8co9p34h1u-xnnrctw9uo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002793296089"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt2xrjRaKIiYIuv+XQEjEcSXkl8vcPXgVKK4ZVDi+08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\8co9p34h1u-xnnrctw9uo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt2xrjRaKIiYIuv+XQEjEcSXkl8vcPXgVKK4ZVDi+08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yt2xrjRaKIiYIuv+XQEjEcSXkl8vcPXgVKK4ZVDi+08="
+        }
+      ]
+    },
+    {
+      "Route": "index.xnnrctw9uo.html",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\8co9p34h1u-xnnrctw9uo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002793296089"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt2xrjRaKIiYIuv+XQEjEcSXkl8vcPXgVKK4ZVDi+08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnnrctw9uo"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw="
+        }
+      ]
+    },
+    {
+      "Route": "index.xnnrctw9uo.html",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnnrctw9uo"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jRCcKhTHsj0w9X6JCKRc6MX2v6MnlJz0XiBIJ+qiLxw="
+        }
+      ]
+    },
+    {
+      "Route": "index.xnnrctw9uo.html.gz",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\8co9p34h1u-xnnrctw9uo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt2xrjRaKIiYIuv+XQEjEcSXkl8vcPXgVKK4ZVDi+08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnnrctw9uo"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yt2xrjRaKIiYIuv+XQEjEcSXkl8vcPXgVKK4ZVDi+08="
+        }
+      ]
+    },
+    {
+      "Route": "script.9obyh8ya6l.js",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\unu6lwcfio-9obyh8ya6l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001592356688"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"apJ/4ZZ8l1F7YmDb63VEOPOS40hQroSPQL7UN92SLLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9obyh8ya6l"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4="
+        }
+      ]
+    },
+    {
+      "Route": "script.9obyh8ya6l.js",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9obyh8ya6l"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4="
+        }
+      ]
+    },
+    {
+      "Route": "script.9obyh8ya6l.js.gz",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\unu6lwcfio-9obyh8ya6l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"apJ/4ZZ8l1F7YmDb63VEOPOS40hQroSPQL7UN92SLLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9obyh8ya6l"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-apJ/4ZZ8l1F7YmDb63VEOPOS40hQroSPQL7UN92SLLM="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\unu6lwcfio-9obyh8ya6l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001592356688"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"apJ/4ZZ8l1F7YmDb63VEOPOS40hQroSPQL7UN92SLLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zx9GgL/Sm/nu7PGNkwUBNxlbpR+yJ9taJHekvQuCfS4="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\unu6lwcfio-9obyh8ya6l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"apJ/4ZZ8l1F7YmDb63VEOPOS40hQroSPQL7UN92SLLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-apJ/4ZZ8l1F7YmDb63VEOPOS40hQroSPQL7UN92SLLM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\t5jjyb44wd-t4ryz5jegt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jbvzSQDhuj2vN9hiyvo6tQ2SSOy5A5N7MomvFZrJCEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\t5jjyb44wd-t4ryz5jegt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jbvzSQDhuj2vN9hiyvo6tQ2SSOy5A5N7MomvFZrJCEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jbvzSQDhuj2vN9hiyvo6tQ2SSOy5A5N7MomvFZrJCEI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.t4ryz5jegt.css",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\t5jjyb44wd-t4ryz5jegt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jbvzSQDhuj2vN9hiyvo6tQ2SSOy5A5N7MomvFZrJCEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4ryz5jegt"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.t4ryz5jegt.css",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4ryz5jegt"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I1unmd6JNZq4TNAuAtr3/s/erBYhn3LpZXsSSrLsbvg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.t4ryz5jegt.css.gz",
+      "AssetFile": "F:\\humber sem-1\\c#\\AutoCareAPI\\obj\\Debug\\net9.0\\compressed\\t5jjyb44wd-t4ryz5jegt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jbvzSQDhuj2vN9hiyvo6tQ2SSOy5A5N7MomvFZrJCEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 01:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4ryz5jegt"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jbvzSQDhuj2vN9hiyvo6tQ2SSOy5A5N7MomvFZrJCEI="
+        }
+      ]
+    }
+  ]
+}

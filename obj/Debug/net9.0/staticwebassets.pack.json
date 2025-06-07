@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "F:\\humber sem-1\\c#\\AutoCareAPI\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AutoCareAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AutoCareAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.AutoCareAPI.props",
+      "PackagePath": "build\\AutoCareAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.AutoCareAPI.props",
+      "PackagePath": "buildMultiTargeting\\AutoCareAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.AutoCareAPI.props",
+      "PackagePath": "buildTransitive\\AutoCareAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

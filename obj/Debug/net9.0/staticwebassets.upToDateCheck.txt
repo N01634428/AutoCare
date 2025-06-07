@@ -1,0 +1,6 @@
+F:\humber sem-1\c#\AutoCareAPI\wwwroot\index.html
+F:\humber sem-1\c#\AutoCareAPI\wwwroot\styles.css
+F:\humber sem-1\c#\AutoCareAPI\wwwroot\script.js
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\styles.css

@@ -1,0 +1,6 @@
+@AutoCareAPI_HostAddress = http://localhost:5036
+
+GET {{AutoCareAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
